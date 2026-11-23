@@ -1,26 +1,23 @@
-# 🧪 QA Testing Portfolio: Pinjam Sultan (MVP Mobile App)
+🧪 QA Testing Activity: Pinjam Sultan (MVP Mobile App)
 
-Repositori ini dibuat sebagai bagian dari **Test Activity** untuk mendemonstrasikan pemahaman dan penerapan *Software Testing Life Cycle* (STLC), mulai dari Analisis Kebutuhan (PRD), Perencanaan Pengujian (*Test Plan*), perancangan skenario uji (*Test Cases*), hingga estimasi waktu pengujian pada aplikasi mobile **Pinjam Sultan**.
+Repositori ini berisi dokumentasi praktik Software Quality Assurance untuk studi kasus aplikasi penyewaan alat pendakian dan kendaraan Pinjam Sultan, yang dikerjakan sebagai bagian dari Test Activity di MySkill.
 
----
+📌 Tentang Proyek
 
-## 📌 Tentang Proyek (PRD Summary)
-**Pinjam Sultan** adalah aplikasi berbasis *mobile* (MVP) yang dirancang untuk memudahkan pengguna dalam menyewa alat pendakian dan kendaraan secara praktis. 
-* **Fitur Utama yang Dianalisis:**
-  1. **Registrasi & Verifikasi:** Proses pendaftaran akun dan verifikasi identitas (KTP, SIM A, SIM C).
-  2. **Katalog & Filter Produk:** Pencarian barang/kendaraan berdasarkan kategori kegiatan, lokasi kota, serta rentang harga minimum/maksimum.
-  3. **Informasi Toko & Chat:** Transparansi informasi penyedia, ulasan, tingkat respons admin, serta fitur *direct chat*.
-  4. **Sistem Booking & Pembayaran:** Integrasi tanggal sewa, metode pengambilan (Go-Send / Ambil sendiri via Google Maps), serta pembayaran melalui Virtual Account (Mandiri, BCA, BNI, CIMB Niaga)[cite: 5, 6].
+Pinjam Sultan adalah platform aplikasi mobile (MVP) yang menghubungkan pengguna dengan penyedia jasa sewa perlengkapan outdoor/pendakian serta kendaraan. Fitur utama yang dianalisis meliputi registrasi & verifikasi identitas (KTP/SIM), katalog & filter produk, fitur chat langsung, serta sistem pemesanan (booking) dengan integrasi Virtual Account dan pengiriman Go-Send.
 
----
+📂 Isi Repositori
 
-## 📂 Isi Repositori
+docs/PRD-Pinjam-Sultan-v1.0.0.pdf
 
-* **[`docs/PRD-Pinjam-Sultan-v1.0.0.pdf`](./docs/PRD-Pinjam-Sultan-v1.0.0.pdf)**  
-  Dokumen *Product Requirement Document* (PRD) resmi sebagai acuan utama kebutuhan fungsional dan ruang lingkup pengujian aplikasi.
+Dokumen Product Requirement Document (PRD) resmi sebagai acuan utama kebutuhan fungsional dan ruang lingkup pengujian aplikasi.
 
-* **[`docs/test-plan.md`](./docs/test-plan.md)**  
-  Dokumen perencanaan pengujian (Test Plan) yang mencakup ruang lingkup pengujian, tahapan Software Testing Life Cycle (STLC) beserta Entry & Exit Criteria, serta estimasi waktu pengujian (10 hari kerja).
+docs/Test-Plan-Pinjam-Sultan.docx
 
----
-Dokumentasi ini disusun secara mandiri sebagai bentuk praktik nyata metodologi Quality Assurance.
+Dokumen perencanaan pengujian (Test Plan) yang mencakup ruang lingkup pengujian, tahapan Software Testing Life Cycle (STLC) beserta Entry & Exit Criteria, serta estimasi waktu pengujian (10 hari kerja).
+
+docs/Test-Organization-Pinjam-Sultan.docx
+
+Dokumen organisasi pengujian (Test Organization) yang berisi Risk Analysis & Mitigation, prosedur Test Monitoring & Control, Test Completion, serta metrik evaluasi pengujian.
+
+Disusun oleh Hamdan Na'im — Quality Assurance Test Activity
